@@ -1,3 +1,6 @@
-id,"name","user_id/id","date_deadline"
-todo_task_a,"Install Odoo","base.user_root","2015-01-30"
-todo_task_b,"Create dev database","base.user_root",""
+id,active,create_uid/id,create_date,name,is_done
+__export__.todo_task_23,True,__export__.res_users_7,2016-08-15 15:24:19,Mow the lawn,False
+__export__.todo_task_24,True,__export__.res_users_7,2016-08-15 15:29:31,Buy a new car,False
+__export__.todo_task_25,True,__export__.res_users_7,2016-08-15 15:33:14,Buy tickets for Tahiti,False
+,TRUE,,,Wash the car,FALSE
+,TRUE,,,Walk the dog,FALSE
